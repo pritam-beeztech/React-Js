@@ -1,11 +1,11 @@
 
-import Chai from "./Chai"
+import Text from "./Text"
 
 function App() {
   return (
     <>
-  <Chai />
-    <h1> chai aur react</h1>
+  <Text />
+    <h1> welcome to web page </h1>
   </>
   );
 }
